@@ -1,9 +1,9 @@
 <scheme name="GitHub Stormy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-05-29T20:12:31</property>
+    <property name="created">2021-05-30T11:04:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-05-29T20:12:42</property>
+    <property name="modified">2021-05-30T11:04:59</property>
     <property name="originalScheme">GitHub Stormy</property>
   </metaInfo>
   <colors>
@@ -36,8 +36,8 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="b392f0" />
     <option name="INDENT_GUIDE" value="3b4048" />
     <option name="INFORMATION_HINT" value="3d424b" />
-    <option name="LINE_NUMBERS_COLOR" value="797f83" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
+    <option name="LINE_NUMBERS_COLOR" value="868c90" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d6d8d9" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
     <option name="QUESTION_HINT" value="2e4280" />
@@ -47,7 +47,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
     <option name="SELECTION_BACKGROUND" value="3c3f41" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
-    <option name="TEARLINE_COLOR" value="797f83" />
+    <option name="TEARLINE_COLOR" value="868c90" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c" />
@@ -343,12 +343,12 @@
     </option>
     <option name="CSS.HASH">
       <value>
-        <option name="FOREGROUND" value="79b8ff" />
+        <option name="FOREGROUND" value="fcb26d" />
       </value>
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="d39a63" />
+        <option name="FOREGROUND" value="f8b77a" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -366,7 +366,7 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="f8b77a" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
@@ -381,7 +381,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="f8b77a" />
         <option name="EFFECT_COLOR" value="d19a66" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -545,7 +545,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68737e" />
+        <option name="FOREGROUND" value="b392f0" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -1048,6 +1048,17 @@
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b392f0" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="cadaec" />
       </value>
     </option>
     <option name="JS.MODULE_NAME">
