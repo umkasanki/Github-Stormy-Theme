@@ -1,3 +1,5 @@
 # Github Stormy Theme for PhpStorm
 
-Fancy yey-friendly ark theme for PhpStorm based on native Dracula backgrounds scheme and dark Github coor sceme
+Contrast eye-friendly dark theme for PhpStorm based on Dracula's and Github dark color scheme.
+
+![Preview](https://raw.githubusercontent.com/umkasanki/Github-Stormy-Theme/main/screnshots/js.png)
